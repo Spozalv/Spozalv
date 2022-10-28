@@ -1,3 +1,4 @@
+![s4njerblog](https://user-images.githubusercontent.com/116889330/198585052-9a312050-abb7-4501-b612-680dacf04adb.png)
 Conóceme
 Mi nombre es Sergio Pozo Álvarez y vivo en los palacios y Villafranca (Sevilla), estudio en un CFGM de Informática, más concretamente el segundo año como Técnico de Sistemas Microinformáticos y Redes. Me gusta mucho la música y la Seguridad Informática, por lo que suelo estar tanto de conciertos como investigando y desarrollando nuevas habilidades en este ámbito.
 
