@@ -3,6 +3,8 @@ Mi nombre es Sergio Pozo Álvarez y vivo en los palacios y Villafranca (Sevilla)
 
 Soy bastante disciplinado en mis tareas.
 
+<img class="rounded-pill w-5 p-3 col-1" src="images/s4njerblog.png" alt="Logo_Perfil">
+
 Gustos Musicales
 
 Una de las cosas que me gusta mucho también como he dicho antes, es la música.
