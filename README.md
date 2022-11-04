@@ -1,19 +1,16 @@
-Conóceme
-Mi nombre es Sergio Pozo Álvarez y vivo en los palacios y Villafranca (Sevilla), estudio en un CFGM de Informática, más concretamente el segundo año como Técnico de Sistemas Microinformáticos y Redes. Me gusta mucho la música y la Seguridad Informática, por lo que suelo estar tanto de conciertos como investigando y desarrollando nuevas habilidades en este ámbito.
-
-Soy bastante disciplinado en mis tareas.
-
-![s4njerblog](https://user-images.githubusercontent.com/116889330/198585052-9a312050-abb7-4501-b612-680dacf04adb.png) <br>
-
-Gustos Musicales
-
-Una de las cosas que me gusta mucho también como he dicho antes, es la música.
-
-Me puedo llevar horas y horas escuchándo muchos subgéneros diferentes del metal, y es esto lo que me ayuda a conseguir casi siempre lo que me propongo, tanto con el Speed Metal, Thrash, Hard Rock, NWOTHM, etc...
-
-Por eso dejo una de mis canciones preferidas para esta página:
-
-<!---
-Spozalv/Spozalv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1>Introducción a las aplicaciones web de escritorio</h1>
+<h3>¿Qué son las aplicaciones web de escritorio?</h3>
+<p>Las aplicaciones web de escritorio son aquellas que pueden estar tanto en la web como en el escritorio, conectándose esta aplicación a la web para recoger la información necesaria para su reproducción.</p>
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.wiredit.mx%2Fwp-content%2Fuploads%2F2016%2F08%2Fap-escritorio.jpg&f=1&nofb=1&ipt=708578646487845f3aab44777cb1be3779f169c2b8e7e26baaa98ce61ab8c48a&ipo=images"></img>
+<p>Para ello hay muchas propuestas interesantes</p>
+<hr>
+<h3 style>¿Qué tipos podemos encontrar?</h3>
+<ul>
+  <li>Reproducción de música en vivo.</li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
